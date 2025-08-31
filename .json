@@ -1,4 +1,4 @@
-# bucket policies in json format
+#bucket policies in json format
 
 {
   "Version": "2012-10-17",
